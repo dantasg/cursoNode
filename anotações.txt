@@ -1,0 +1,27 @@
+    Estruturando uma aplicação
+|
+|- app.js
+|
+|- bin
+|   |- www
+|
+|- package.json
+|
+|- public
+|   |- images
+|   |- javascript
+|   |- stylesheets
+|       |- style.css
+|
+|- routes
+|   |- index.js
+|   |- users.js
+|
+|- views
+|   |- error.pug
+|   |- index.pug
+|   |- layout.pug
+
+================================================================
+- metodo get = usado para vizualizar
+- metodo post = Usado para enviar informações
