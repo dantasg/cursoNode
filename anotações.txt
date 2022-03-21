@@ -25,3 +25,12 @@
 ================================================================
 - metodo get = usado para vizualizar
 - metodo post = Usado para enviar informações
+
+================================================================
+
+CRUD - 
+
+C -- CREATE -- POST
+R -- READ   -- GET
+U -- UPDATE -- PUT/PATCH
+D -- DELETE -- DELETE
